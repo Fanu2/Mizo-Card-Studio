@@ -1,4 +1,71 @@
-# ❤️ Mizo Love v3 — Card Studio
+# ❤️ Mizo Love — PySide6 Card Studio
+
+A beautiful desktop application for learning, exploring and creating
+romantic expressions in the **Mizo language**, with English meanings provided
+for understanding.
+
+The application combines a **Mizo Romance Phrase Library** with an integrated
+**Romantic Card Generator**, allowing Mizo-only messages to be turned into
+beautiful shareable PNG cards.
+
+---
+
+## ❤️ Project Idea
+
+The goal is simple:
+
+> **Understand the Mizo expression first — then create a beautiful Mizo-only
+> romantic card.**
+
+English is provided inside the learning interface so the user can understand
+the meaning before using an expression.
+
+The generated card itself contains **Mizo text only**, keeping the final
+message clean and natural.
+
+---
+
+# ✨ Main Features
+
+## 📖 Mizo Romance Library
+
+The application contains a growing collection of Mizo expressions covering:
+
+- ❤️ Love
+- 💕 Affection
+- 🌹 Compliments
+- 💌 Missing someone
+- 💬 Getting to know someone
+- 🌙 Good morning / good night
+- 💞 Romantic replies
+- 🌸 Everyday affection
+- 💍 Serious relationships
+- 🎵 Poetic expressions
+- 📚 Mizo love vocabulary
+
+Each entry can contain:
+
+- Mizo expression
+- English meaning
+- Category
+- Usage/context note
+- Source status
+
+---
+
+# 🔎 Search
+
+Search the complete collection using:
+
+- English words
+- Mizo words
+- phrases
+- romantic concepts
+
+Example:
+
+```text
+love# ❤️ Mizo Love v3 — Card Studio
 
 A PySide6 desktop application for learning Mizo romantic and affectionate
 expressions and creating beautiful **Mizo-only PNG cards directly inside the app**.
